@@ -4,7 +4,9 @@ Dashboard de la Tarea 4 para explorar las diferencias de esperanza de vida que r
 
 Se eligió Life Expectancy (WHO), versión 1 de [kumarajarshi en Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), por su cobertura temporal y sus indicadores educativos y sanitarios. La copia local conserva los bytes del análisis original. La app verifica su huella al cargarla.
 
-![Vista local del dashboard](dashboard-local.png)
+[Abrir el dashboard interactivo](https://jt6pxcnrgyjt9x6aem7ygv.streamlit.app/)
+
+![Vista pública del dashboard](dashboard-publicado.jpg)
 
 ## Hallazgos
 
